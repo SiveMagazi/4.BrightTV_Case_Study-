@@ -75,7 +75,7 @@ Key Performance Indicators (KPIs)
 
 ## KPIs analysed in this project include:
 
-Total Viewing Sessions
+**Total Viewing Sessions**
 Active Users
 Average Consumption Duration
 Peak Viewing Hours
