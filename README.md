@@ -32,13 +32,13 @@ Consumption data is recorded at session level, meaning each viewing session is r
 Additional supporting data may be incorporated where relevant to strengthen the analysis.
 Tools and Technologies
 
-The project was completed using the following tools:
+## The project was completed using the following tools:
 
-Microsoft Excel
-SQL
-Python (Pandas, NumPy, Matplotlib, Seaborn)
-Power BI
-GitHub
+*Microsoft Excel
+*SQL
+*Python (Pandas, NumPy, Matplotlib, Seaborn)
+*Power BI
+*GitHub
 
 ## Data Analytics Process
 
