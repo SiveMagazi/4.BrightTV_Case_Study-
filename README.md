@@ -75,21 +75,21 @@ Key Performance Indicators (KPIs)
 
 ## KPIs analysed in this project include:
 
-**Total Viewing Sessions**
+1. Total Viewing Sessions
 
-Active Users
+2. Active Users
 
-Average Consumption Duration
+3. Average Consumption Duration
 
-Peak Viewing Hours
+4. Peak Viewing Hours
 
-Content Category Performance
+5. Content Category Performance
 
-Viewer Retention Metrics
+6. Viewer Retention Metrics
 
-Subscriber Growth Opportunities
+7. Subscriber Growth Opportunities
 
-Business Value
+8. Business Value
 
 This project demonstrates how data analytics can be applied to solve real-world business challenges within the media and other industries beside media. By understanding viewer behaviour and consumption trends, BrightTV can make informed decisions regarding content strategy, customer engagement, and subscription growth initiatives.
 
